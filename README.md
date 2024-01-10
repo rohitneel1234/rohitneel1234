@@ -19,4 +19,8 @@ Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.ph
     <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/linkedin.png" width="120" alt="LinkedIn" style="max-width: 100%;">
   </a>
   
+  <a href="https://medium.com/@rohitneel007" title="Checkout my Medium blog" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" style="max-width: 100%;">
+  </a>
+
 # 💻 Tech Languages and Tools
