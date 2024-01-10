@@ -11,7 +11,7 @@
 🌎 Bio website: https://zaap.bio/rohitneel<br>
 🌐 Portfolio website: https://rohit-neel.mystrikingly.com/<br>
 🤝 I'm looking to collaborate on interesting open-source projects<br><br>
-## 📱 My App Link
+## 📱 App Link
 ![Google PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) <br>
 Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.photopixelpro <br><br>
 
