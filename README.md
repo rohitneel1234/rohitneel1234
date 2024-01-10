@@ -57,5 +57,3 @@ Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.ph
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rohitneel1234)](https://git.io/streak-stats)
