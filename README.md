@@ -15,6 +15,8 @@
 Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.photopixelpro
 
 # 🌐 Let's connect
-<a href=”https://www.linkedin.com/in/rohit-r-neel/"><img align=”left” src=”https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/linkedin.png" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
+<a href="https://linkedin.com/in/rohit-r-neel" title="Checkout my LinkedIn profile" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/linkedin.png" width="120" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  
 # 💻 Tech Languages and Tools
