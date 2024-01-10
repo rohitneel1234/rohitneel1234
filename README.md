@@ -1,6 +1,6 @@
 # Hey, I am Rohit Neel👋
 ## About
-👨‍💻 I'm an experienced Android application developer with over 5+ years of experience in developing and leading scalable applications.<br>
+👨‍💻 I'm an experienced Android application developer with over 5+ years of experience in developing and leading scalable performance-driven applications.<br>
 💻 I build cool projects with Kotlin, Java, Android, Jetpack Compose.<br>
 📱 Proficient in Android, Java, Kotlin, Jetpack Compose, JSON, MySQL, and XML.<br>
 📚 I'm well-versed in using popular libraries like Retrofit, Glide, Dagger2, Room, and more for efficient development.<br>
@@ -12,6 +12,7 @@
 🌐 Portfolio website: https://rohit-neel.mystrikingly.com/<br>
 🤝 I'm looking to collaborate on interesting open-source projects<br><br>
 ## 📱 My App Link
+![Google PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) <br>
 Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.photopixelpro <br><br>
 
 
