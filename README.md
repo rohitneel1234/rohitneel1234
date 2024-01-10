@@ -17,19 +17,21 @@ Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.ph
 
 ## 🌐 Let's connect
 <a href="https://linkedin.com/in/rohit-r-neel" title="Checkout my LinkedIn profile" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/linkedin.png" width="120" alt="LinkedIn" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/linkedin.png" width="130" alt="LinkedIn" style="max-width: 100%;">
   </a> &nbsp;
   <a href="https://rohit-neel.mystrikingly.com/" title="Checkout my Portfolio website" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/website.png" width="120" alt="Portfolio" style="max-width: 100%;">
   </a> &nbsp;
    <a href="https://zaap.bio/rohitneel" title="Checkout my Bio website" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/bio.png" width="50" alt="Portfolio" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/bio.png" width="140" alt="Portfolio" style="max-width: 100%;">
   </a> &nbsp;
-  <a href="https://medium.com/@rohitneel007" title="Checkout my Medium blog" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="50" alt="Medium" style="max-width: 100%;">
+   <a href="https://medium.com/@rohitneel007" title="Checkout my Medium blog" rel="nofollow">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="150" alt="Medium" style="max-width: 100%;">
   </a>
 <br><br>
 
 ## 💻 Tech Languages and Tools
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/04622fd932420c791e46664ab8b43978f8ba33f72ff89df89f3f40e9fb2d597c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/04622fd932420c791e46664ab8b43978f8ba33f72ff89df89f3f40e9fb2d597c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d2532333030393544352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465" alt="Kotlin" data-canonical-src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26e74d6ef4bb4726fc8f8a6b3d4136376d691ecf85c8d3b464bfbf4259e5698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/26e74d6ef4bb4726fc8f8a6b3d4136376d691ecf85c8d3b464bfbf4259e5698d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/rohitneel1234/main/main/Assets/jetpack_compose.png" width="120" alt="Jetpack Compose" style="max-width: 100%;"></a>
