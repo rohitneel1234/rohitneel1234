@@ -58,5 +58,5 @@ Photo Pixel Pro : https://play.google.com/store/apps/details?id=com.rohitneel.ph
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <br><br>
-## 📊 GitHub overview
+## 📊 GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rohitneel1234)](https://github.com/rohitneel1234)
