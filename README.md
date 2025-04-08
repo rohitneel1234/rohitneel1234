@@ -3,7 +3,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=rohitneel1234&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 ## About
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e6332e0466ea6e11035a7d64e6fb35a2ea3108f61d5a27dcb422834d70a06e3b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e69686172696b6132383130"><img src="https://camo.githubusercontent.com/e6332e0466ea6e11035a7d64e6fb35a2ea3108f61d5a27dcb422834d70a06e3b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6e69686172696b6132383130" alt="" data-canonical-src="https://komarev.com/ghpvc/?username=rohitneel1234" style="max-width: 100%;"></a> <br><br>
-👨‍💻 I'm an experienced Android application developer with over 6+ years of experience in developing and leading scalable performance-driven applications.<br>
+👨‍💻 I'm an experienced Android application developer with over 7+ years of experience in developing and leading scalable performance-driven applications.<br>
 💻 I build cool projects with Kotlin, Java, Android, Jetpack Compose and dart.<br>
 📱 Proficient in Android, Java, Kotlin, Jetpack Compose, JSON, MySQL, and XML.<br>
 📚 I'm well-versed in using popular libraries like Retrofit, Glide, Dagger2, Room, and more for efficient development.<br>
