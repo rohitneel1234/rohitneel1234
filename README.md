@@ -12,7 +12,7 @@
 📱 Profound dedication to craft exceptional mobile applications.<br>
 📖 Read my medium blogs: https://medium.com/@rohitneel007<br>
 🌎 Bio website: https://zaap.bio/rohitneel<br>
-🌐 Portfolio website: https://rohit-neel.mystrikingly.com/<br>
+🌐 Portfolio website: https://rohitneel.netlify.app<br>
 🤝 I'm looking to collaborate on interesting open-source projects<br><br>
 ## 📱 Apps Link
 <a href="https://play.google.com/store/apps/details?id=com.rohitneel.photopixelpro" rel="nofollow"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" style="max-width: 100%;"></a> <br>
